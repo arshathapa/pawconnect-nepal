@@ -44,10 +44,9 @@ Here’s a quick look at the platform in action:
 
 ![Homepage](./screenshots/homepage2.png)
 
-![Homepage](./screenshots/homepage3.png)
 
 ### 🏠 Shelter List Page
-![Shelter Page](./screenshots/shelter-page.png)
+![Shelter Page](./screenshots/shelters_page.png)
 
 ### About Page
 ![About pags](./screenshots/about_page.png)
@@ -63,4 +62,4 @@ Here’s a quick look at the platform in action:
 ![Donate Page](./screenshots/donate_page1.png)
 
 ### 📱 Mobile View
-![Mobile View](./screenshots/mobile_view.png)
+![Mobile View](./screenshots/mobile_view.PNG)
