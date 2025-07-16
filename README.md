@@ -34,3 +34,33 @@ This is an evolving platform — the long-term goal is to sustainably expand the
 ## 💛 Why It Matters
 
 This project is about using simple technology to create real-world impact — for the dogs, the shelters, and the people who care.
+
+## 📸 Screenshots
+
+Here’s a quick look at the platform in action:
+
+### 🐶 Homepage
+![Homepage](./screenshots/homepage.png)
+
+![Homepage](./screenshots/homepage2.png)
+
+![Homepage](./screenshots/homepage3.png)
+
+### 🏠 Shelter List Page
+![Shelter Page](./screenshots/shelter-page.png)
+
+### About Page
+![About pags](./screenshots/about_page.png)
+
+### Adopt Page
+![Adopt Page](./screenshots/adopt_page.png)
+
+![Adopt Page](./screenshots/adopt_page2.png)
+
+### Donate Page
+![Donate Page](./screenshots/donate_page.png)
+
+![Donate Page](./screenshots/donate_page1.png)
+
+### 📱 Mobile View
+![Mobile View](./screenshots/mobile_view.png)
