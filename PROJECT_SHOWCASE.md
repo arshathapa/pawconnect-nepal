@@ -1,8 +1,8 @@
-🐾 PawConnect Nepal
+# 🐾 PawConnect Nepal
 PawConnect Nepal is a mission-driven web platform I built solo to help rescue dogs from Nepal find loving homes internationally and make it easier for shelters to receive donations.
 This is a sustainable, long-term side project I continue to expand — with shelters being onboarded gradually.
 
-🔍 Problem
+## 🔍 Problem
 Despite hundreds of amazing dogs being rescued across Nepal, shelters struggle with two main challenges:
 Lack of visibility: Most dogs remain unseen beyond local areas.
 
@@ -11,7 +11,7 @@ Limited funding options: Donations are difficult due to lack of digital platform
 
 
 
-🎯 Vision
+## 🎯 Vision
 Bridge the gap between adopters, shelters, and donors through a simple, mobile-first interface that makes:
 Discovering adoptable dogs easier
 
@@ -23,7 +23,7 @@ Donating to Nepali shelters more transparent
 
 
 
-👣 Process Overview
+## 👣 Process Overview
 1. Research & Discovery
 Created a bilingual survey shared across Nepali and global dog lover communities
 
@@ -101,7 +101,7 @@ Ensured the site allows gradual addition of shelters without redesign
 
 
 
-⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 | Tool          | Purpose                                 |
 |---------------|-----------------------------------------|
@@ -112,15 +112,15 @@ Ensured the site allows gradual addition of shelters without redesign
 | GitHub        | Documentation and project tracking      |
 
 
-🌐 Website
+## 🌐 Website
 🔗 pawconnectnepal.framer.website
- (Note: Currently hosted on Framer's free subdomain. Domain and shelter onboarding in progress.)
+ (Note: Currently hosted on Framer's free subdomain. Shelter onboarding in progress.)
 
-📦 GitHub Repo
+## 📦 GitHub Repo
 [https://github.com/arshathapa/pawconnect-nepal](https://github.com/arshathapa/pawconnect-nepal)
 
-📌 Current Phase
-🐶 Actively onboarding verified rescue shelters
+## 📌 Current Phase
+🐶 Connecting with verified rescue shelters
 
 
 🧱 Continuously improving UX for discoverability
