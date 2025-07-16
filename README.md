@@ -7,8 +7,6 @@ Built with love as a dog parent and product builder, this platform reflects my p
 
 ## 💻 What I Built and Managed
 
-I designed and built this project end-to-end to deepen my technical product/program management skills:
-
 - Ran local and international user surveys to uncover adoption and donation friction points  
 - Defined key user journeys and product goals from research insights  
 - Designed a responsive, mobile-first UX using Framer (no-code)  
@@ -35,5 +33,4 @@ This is an evolving platform — the long-term goal is to sustainably expand the
 
 ## 💛 Why It Matters
 
-PawConnect Nepal is about more than technology.  
 This project is about using simple technology to create real-world impact — for the dogs, the shelters, and the people who care.
